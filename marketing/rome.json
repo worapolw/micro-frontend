@@ -1,0 +1,11 @@
+{
+  "linter": {
+    "enabled": false,
+    "rules": {
+      "recommended": false,
+      "style": {
+        "noImplicitBoolean": "off"
+      }
+    }
+  }
+}
